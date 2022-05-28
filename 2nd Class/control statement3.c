@@ -16,7 +16,7 @@ int main ()
     else{
       printf ("You passed!\n");
       if (grade >= 90){
-        printf ("And you got an A!\n");
+        printf ("And you got an A+\n");
       }
     }
   }

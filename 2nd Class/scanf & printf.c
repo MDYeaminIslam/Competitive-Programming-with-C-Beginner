@@ -3,7 +3,7 @@
 //printf(control string, argument1, argument2,……..argumentn);
 //এখানে control string দ্বারা কোন ধরনের Data Output দিবে তার ফরমেট বুঝায়।
 #include <stdio.h>
-int main(void)
+int main()
 
 {
     float gpa;
