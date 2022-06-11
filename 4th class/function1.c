@@ -7,12 +7,12 @@
 #include<stdio.h>
 
 int square(int num){
-    int result = num * num;
-    return result;
+    //int result = num * num;
+    return num * num;
 }
 
 
-int main(void){
+int main(){
 
   int x = square(5);
 
